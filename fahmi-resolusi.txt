@@ -1,5 +1,5 @@
 FAHMI Resolusi
 - Konsisten untuk belajar Pemrograman
-- Membuat Project UKK untuk Sekolah
 - Membuat Toko Online Game 
 - Membantu Masyarakat 
+- Membuat App untuk mempermudah Masyarakat

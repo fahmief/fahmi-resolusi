@@ -3,7 +3,9 @@ Rencana Olshop Fahmi
 - Berdagang Game Online
  * Game Growtopia
  * Game Mobile Legends
+    ^ Top Up Diamond dan Gift Skin
 - Jualan Rdp 
  * Rdp Azure Trial
  * Rdp Aws
 - Jualan Top up Game Online
+    * Semua Game yang berbasis Top Up 

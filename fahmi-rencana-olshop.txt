@@ -4,4 +4,6 @@ Rencana Olshop Fahmi
  * Game Growtopia
  * Game Mobile Legends
 - Jualan Rdp 
+ * Rdp Azure Trial
+ * Rdp Aws
 - Jualan Top up Game Online
